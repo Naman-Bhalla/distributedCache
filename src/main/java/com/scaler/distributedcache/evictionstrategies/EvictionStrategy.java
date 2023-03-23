@@ -1,2 +1,6 @@
-package com.scaler.distributedcache.evictionstrategies;public enum EvictionStrategy {
+package com.scaler.distributedcache.evictionstrategies;
+
+public enum EvictionStrategy {
+    LRU,
+    LFU,
 }

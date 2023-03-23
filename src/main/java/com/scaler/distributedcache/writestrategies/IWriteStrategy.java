@@ -1,2 +1,4 @@
-package com.scaler.distributedcache.writestrategies;public class IWriteStrategy {
+package com.scaler.distributedcache.writestrategies;
+
+public interface IWriteStrategy {
 }

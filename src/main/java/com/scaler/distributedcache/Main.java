@@ -1,4 +1,4 @@
-package com.scaler;
+package com.scaler.distributedcache;
 
 public class Main {
     public static void main(String[] args) {
